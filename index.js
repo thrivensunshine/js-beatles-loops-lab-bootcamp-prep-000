@@ -20,12 +20,13 @@ var i = 0;
 while(arr.length- 2 >= i) {
   console.log(i + "  <-- 1" )
   console.log(arr[i])
-  i++
+ 
   fin = arr[i]
   exla = "!!!"
   
   finArr.push(fin + exla)
   finArr.push(arr[0]+"!!!")
+   i++
   //finArr.pop()
 console.log(finArr);
 
