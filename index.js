@@ -36,7 +36,7 @@ console.log(finArr);
   function iLoveTheBeatles(num){
   let finArr = [];
   //let i = 0
-  let text = "I love the Beatles"
+  let text = "I love the Beatles!"
   
   do{
     num++
