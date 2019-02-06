@@ -31,3 +31,16 @@ console.log(finArr);
 
 }return finArr
   }
+  
+  
+  function iLoveTheBeatles(num){
+  let finArr = [];
+  //let i = 0
+  let text = "I love the Beatles"
+  
+  do{
+    num++
+    finArr.push(text)
+  }while(num <= 15 );
+  return finArr
+}
