@@ -41,6 +41,6 @@ console.log(finArr);
   do{
     num++
     finArr.push(text)
-  }while(num <= 15 );
+  }while(num < 15 );
   return finArr
 }
